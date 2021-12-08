@@ -42,6 +42,22 @@
             "createUser",
             "createUser.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "BitcoinAPI",
+            "BitcoinAPI.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "stockExchange",
+            "stockExchange.json"
+          ]
         }
       ],
       "configxml": null,

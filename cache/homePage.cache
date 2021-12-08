@@ -1,5 +1,5 @@
 headMain.textContent = "Wellcome, ${userID}"
-btnBitcoinExcahnge.onclick=function(){
+btnBitcoinExchange.onclick=function(){
   ChangeForm(BitcoinAPI)
 }
 
@@ -7,3 +7,6 @@ btnBitcoinExcahnge.onclick=function(){
 btnStock.onclick=function(){
   ChangeForm(stockExchange)
 }
+
+// Two more forms
+
